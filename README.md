@@ -1,2 +1,2 @@
 # Minion_talk
- se the translator to convert your text from English to Minion speak
+ use the translator to convert your text from English to Minion speak
